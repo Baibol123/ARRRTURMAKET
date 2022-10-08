@@ -71,6 +71,10 @@
     padding: 1% 0px 0px 0px;
     font-weight: bold;
 }
+.section4-span6{
+    font-weight: 400;
+    font-size: 64px;
+}
 .section-5{
     padding: 5% 0px 0px 10%;
     display: flex;
